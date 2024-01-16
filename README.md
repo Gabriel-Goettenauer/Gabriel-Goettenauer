@@ -3,7 +3,7 @@
 
 - Tecnologia em Sistemas para Internett **na UTFPR**
 
-- Estudo focado no front end, **HTML, CSS, JS, NodeJ, React, Bootstrap/Materialize, SQL**
+- Estudo focado no front end, **HTML, CSS, JS, NodeJ, React, React Native, Java, Python**
 
 - Segue meu perfil no Linkedln - **https://www.linkedin.com/in/gabriel-goettenauer-b9b587217**
 
