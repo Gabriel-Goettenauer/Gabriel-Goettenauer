@@ -3,7 +3,7 @@
 
 - Tecnologia em Sistemas para Internett **na UTFPR**
 
-- Estudo focado no front end, ** JS, NodeJ, React, React Native, Java, Python**
+-** JS, NodeJ, React, React Native, Java, Python**
 
 - Segue meu perfil no Linkedln - **https://www.linkedin.com/in/gabriel-goettenauer-b9b587217**
 
